@@ -1,7 +1,7 @@
 # Mac-Plus-Keyboard-Adapter
 
 
-So, I got my hands on an old keyboard, and instead of doing the sensible thing and buying the adapter for USB, I made my own because it was like 30 dollars.
+So, I got my hands on a coouple of old Datadesk Mac-101 Keyboards, This is pre-ADB. Instead of doing the sensible thing and buying the adapter for USB for like 30 dollars, I made my own because I can.
 
 
 Now it is free lol.
@@ -11,3 +11,5 @@ This Includes Support for Hot-Pluggability and will function as a normal adapter
 
 
 My keyboard does not work for BIOS yet, because the arduino keyboard library is limited,  This should be changed in the coming days and weeks.
+
+More soon...
